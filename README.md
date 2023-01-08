@@ -31,6 +31,7 @@ RGB mode:
 * ![metric](images/lena.quant444.mse.png) MSE: 0.013604, UM: -1.218735
 * ![metric](images/lena.quant444.psnr.png) PSNR: 18.663233, UM: -1.317894
 * ![metric](images/lena.quant444.ssim.png) SSIM: 0.618509, UM: -0.239359 
+* ![metric](images/lena.quant444.vifp1.png) VIFP1: 0.806863, UM: -
 * ![metric](images/lena.quant444.smallfry.png) SMALLFRY: 83.753342, UM: -0.653625
 * ![metric](images/lena.quant444.shbad.png) SHARPENBAD: -0.213132, UM: -0.575435
 * ![metric](images/lena.quant444.cor.png) Corelation: 0.953666, UM: -0.644979
@@ -45,6 +46,7 @@ YCbCr mode:
 * ![metric](images/lena.quant444.mse.y.png) MSE: 0.006030, UM: 0.422970
 * ![metric](images/lena.quant444.psnr.y.png) PSNR: 22.196735, UM: -0.887525
 * ![metric](images/lena.quant444.ssim.y.png) SSIM: 0.608033, UM:-0.239452
+* ![metric](images/lena.quant444.vifp1.y.png) VIFP1: 0.931247, UM: -
 * ![metric](images/lena.quant444.smallfry.y.png) SMALLFRY: 85.867256, UM: -0.495716
 * ![metric](images/lena.quant444.shbad.y.png) SHARPENBAD: -0.242864, UM: -0.619439
 * ![metric](images/lena.quant444.cor.y.png) Corelation: 0.951516, UM: -0.664542
