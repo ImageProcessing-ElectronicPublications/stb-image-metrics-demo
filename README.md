@@ -28,33 +28,37 @@ Save png: lena.quant444.psnr.png
 
 RGB mode:
 
-* ![metric](images/lena.quant444.mse.png) MSE: 0.013604, UM: -0.167366
-* ![metric](images/lena.quant444.psnr.png) PSNR: 18.663233, UM: -1.003105
-* ![metric](images/lena.quant444.sdsnr.png) SDSNR: 13.888971, UM: -0.672228
-* ![metric](images/lena.quant444.cor.png) Corelation: 0.953666, UM: -0.760071
-* ![metric](images/lena.quant444.ssim.png) SSIM: 0.618509, UM: 0.302463
-* ![metric](images/lena.quant444.vifp1.png) VIFP1: 0.170903, UM: 0.354721
-* ![metric](images/lena.quant444.smallfry.png) SMALLFRY: 83.753342, UM: -0.422366
-* ![metric](images/lena.quant444.shbad.png) SHARPENBAD: -0.213132, UM: -0.416092
-* ![metric](images/lena.quant444.nhw-n.png) NHW-N: 0.072673, UM: 0.714070
-* ![metric](images/lena.quant444.nhw-c.png) NHW-C: 0.145290, UM: -0.503793
-* ![metric](images/lena.quant444.nhw-r.png) NHW-R: 0.116387, UM: -0.406557
+| Name | Image metric | Value | UM |
+| --- | --- | --- | --- |
+| MSE | ![metric](images/lena.quant444.mse.png) | 0.013604 | 0.208771 |
+| PSNR | ![metric](images/lena.quant444.psnr.png) | 18.663233 | 0.470890 |
+| SDSNR | ![metric](images/lena.quant444.sdsnr.png) | 13.888971 | 0.454668 |
+| Corelation | ![metric](images/lena.quant444.cor.png) | 0.953666 | 0.285007 |
+| SSIM | ![metric](images/lena.quant444.ssim.png) | 0.618509 | 0.050606 |
+| VIFP1 | ![metric](images/lena.quant444.vifp1.png) | 0.170903 | 0.053111 |
+| SMALLFRY | ![metric](images/lena.quant444.smallfry.png) | 83.753342 | 0.341786 |
+| SHARPENBAD | ![metric](images/lena.quant444.shbad.png) | 0.389942 | 0.138531 |
+| NHW-C | ![metric](images/lena.quant444.nhw-c.png) | 0.145290 | 0.422748 |
+| NHW-N | ![metric](images/lena.quant444.nhw-n.png) | 0.072673 | 0.550836 |
+| NHW-R | ![metric](images/lena.quant444.nhw-r.png) | 0.116387 | 0.381794 |
 
 ---
 
 YCbCr mode:
 
-* ![metric](images/lena.quant444.mse.y.png) MSE: 0.006030, UM: -0.063010
-* ![metric](images/lena.quant444.psnr.y.png) PSNR: 22.196735, UM: -0.615772
-* ![metric](images/lena.quant444.sdsnr.y.png) SDSNR: 21.873943, UM: -0.307200
-* ![metric](images/lena.quant444.cor.y.png) Corelation: 0.951516, UM: -0.787068
-* ![metric](images/lena.quant444.ssim.y.png) SSIM: 0.608033, UM: 0.302106
-* ![metric](images/lena.quant444.vifp1.y.png) VIFP1: 0.227644, UM: 0.381962
-* ![metric](images/lena.quant444.smallfry.y.png) SMALLFRY: 85.867256, UM: -0.258114
-* ![metric](images/lena.quant444.shbad.y.png) SHARPENBAD: -0.242864, UM: -0.461582
-* ![metric](images/lena.quant444.nhw-n.y.png) NHW-N: 0.075381, UM: 0.715034
-* ![metric](images/lena.quant444.nhw-c.y.png) NHW-C: 0.091878, UM: -0.222633
-* ![metric](images/lena.quant444.nhw-r.y.png) NHW-R: 0.078292, UM: -0.222812
+| Name | Image metric | Value | UM |
+| --- | --- | --- | --- |
+| MSE | ![metric](images/lena.quant444.mse.y.png) | 0.006030 | 0.255863 |
+| PSNR | ![metric](images/lena.quant444.psnr.y.png) | 22.196735 | 0.513536 |
+| SDSNR | ![metric](images/lena.quant444.sdsnr.y.png) | 21.873943 | 0.507061 |
+| Corelation | ![metric](images/lena.quant444.cor.y.png) | 0.951516 | 0.278486 |
+| SSIM | ![metric](images/lena.quant444.ssim.y.png) | 0.608033 | 0.046795 |
+| VIFP1 | ![metric](images/lena.quant444.vifp1.y.png) | 0.227644 | 0.094781 |
+| SMALLFRY | ![metric](images/lena.quant444.smallfry.y.png) | 85.867256 | 0.385938 |
+| SHARPENBAD | ![metric](images/lena.quant444.shbad.y.png) | 0.371371 | 0.125152 |
+| NHW-C | ![metric](images/lena.quant444.nhw-c.y.png) | 0.091878 | 0.474065 |
+| NHW-N | ![metric](images/lena.quant444.nhw-n.y.png) | 0.075381 | 0.545821 |
+| NHW-R | ![metric](images/lena.quant444.nhw-r.y.png) | 0.078292 | 0.421576 |
 
 ---
 
